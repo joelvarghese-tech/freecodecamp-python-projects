@@ -3,7 +3,7 @@
 
 # **Projects:**
 
-### ➔Report Card Printer:
+### <u>➔Report Card Printer:</u>
 ### -**Skills practiced:**
 - Variables & Data Types 
 - Program Logic
