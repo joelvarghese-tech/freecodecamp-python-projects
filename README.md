@@ -4,7 +4,13 @@
 # **Projects:**
 
 ### <u>➔Report Card Printer:</u>
-### -*Skills practiced:*
+#### -*Skills practiced:*
 - Variables & Data Types 
 - Program Logic
 - Output & Debugging
+
+### ➔Bill Splitter:
+#### -*Skills practiced:*
+- Operations
+- f Strings
+- Rounding Values
