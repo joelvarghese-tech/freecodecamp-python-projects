@@ -3,7 +3,9 @@
 
 # **Projects:**
 
-### <u>➔Report Card Printer:</u>
+## **1)Python Basics:**
+
+### ➔Report Card Printer:
 #### -*Skills practiced:*
 - Variables & Data Types 
 - Program Logic
@@ -19,3 +21,10 @@
 #### -*Skills practiced:*
 - Variable Type Conversion
 - String Slicing
+
+### ➔Movie Ticket Booking Calculator:
+#### -*Skills practiced:*
+- Conditional Statments(*if,elif,else*)
+- Boolean Logic(*and,or*)
+- Comparison Operators
+- Nested Conditionals
