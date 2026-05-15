@@ -16,6 +16,6 @@
 - Rounding Values
 
 ### ➔Employee Profile Generator:
-#### -*Skills ppe Conversionracticed:*
+#### -*Skills practiced:*
 - Variable Type Conversion
 - String Slicing
