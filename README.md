@@ -14,3 +14,8 @@
 - Operations
 - f Strings
 - Rounding Values
+
+### ➔Employee Profile Generator:
+#### -*Skills ppe Conversionracticed:*
+- Variable Type Conversion
+- String Slicing
