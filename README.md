@@ -40,4 +40,11 @@ A decision-making script that determines the best mode of transport based on dis
     * Boolean Logic (`and`, `or`, `not`)
     * Logical flow and prioritization
 
+### ➔ Smart Discount Calculator
+A simple price calculation tool that includes input validation to handle errors and edge cases.
+* **Skills practiced:**
+    * Functions
+    * Defensive Programming (Using `isinstance()`)
+    * Data Sanitization
+    * Error Handling
 ---
